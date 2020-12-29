@@ -1,0 +1,7 @@
+Ivanov 43000
+Smirnov 25000
+Sobolev 17000
+Batrutdinov 33000
+Kharlamov 56000
+Polovinkin 12000
+Volya 60000
